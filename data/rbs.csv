@@ -1,0 +1,13 @@
+Gene,Strength,Predicted TIR,EMOPEC,sequence
+acr1,M,2208,21.6,TAAGTTATATATTCAACATCGTAATTAAGTTATACTTCTT
+acr1,H,10915,85.5,AGAACGTTAATTAAGCATTATAAAAATTTAAGGTTATTA
+FadD,L,752,14.8,tattaatttaactaaattaaggggctcatcacagtaaaa
+FadD,M,1913,92.4,cgagatctcaatagccgaaaggtacctaaagagaattactag
+FadD,H,9103,87.6,TATCCTCACAAAAATACATCAGGGAGAAAAGAA
+Maqu_2220,M,1913,72.1,TCAGAGTCCCCTTACATCCCAAGAGTTCTAATAAC
+Maqu_2220,H,477311,80.5,tgaatcaaacagactaagaagcattcataaggaggtaaat
+Maqu_2507,M,1958,92,cggccacagactaccgggggtaccaaagcac
+Maqu_2507,H,10410,98.4,atcgcagaaaatactcacgaaaaacctaaggagctaacc
+UcFatB1,M,1560,96.5,gcacctactacggtttttactcggagaataca
+UcFatB1,H,9876,94.2,tacaaattataatacaattccgtcagaggtcaca
+yjgB,H,9491,41.1,aaaataaggaaagtataagaaatccaaact

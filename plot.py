@@ -8,7 +8,9 @@ import seaborn as sns
 from scipy.stats import pearsonr
 import numpy as np
 
+
 def plot_corr(df,title='',mask_insignificant=True):
+    '''Plots a Correlation Grid'''
     sns.set(style="white")
     plt.figure(figsize=(14,8))
     n = len(df.columns)
@@ -183,3 +185,88 @@ def plotModel(model,data,targets,midpoint=0.1,pcs=None,title=None,zlabel=None,ax
         plt.colorbar(im, cax=cax,label=zlabel)
     else:
         plt.colorbar(im, cax=cax)
+
+        
+def strain_heatmap(df):
+    '''Plot a Heatmap of All Strains Along Side TIR & Production'''
+    
+    #Create Matrix of all catagories for the heatmap and Normalize by Column with a maximum at 1 and a min at 0
+    #columns = list(df.columns[df.columns.get_level_values(0).isin(['TIR','Targeted Proteomics'])]) + [('GC-MS', 'dodecan-1-ol')]
+    columns = [('TIR','sp|P69451|LCFA_ECOLI'),('Targeted Proteomics','sp|P69451|LCFA_ECOLI'),
+               ('TIR','sp|Q41635|FATB_UMBCA'),('Targeted Proteomics','sp|Q41635|FATB_UMBCA'),
+               ('TIR','tr|A1U2T0|A1U2T0_MARHV'),('Targeted Proteomics','tr|A1U2T0|A1U2T0_MARHV'),
+               ('TIR','tr|A1U3L3|A1U3L3_MARHV'),('Targeted Proteomics','tr|A1U3L3|A1U3L3_MARHV'),
+               ('TIR','sp|Q6F7B8|ACR1_ACIAD'),('Targeted Proteomics','sp|Q6F7B8|ACR1_ACIAD'),
+               ('TIR','sp|P27250|AHR_ECOLI'),('Targeted Proteomics','sp|P27250|AHR_ECOLI'),
+               ('GC-MS', 'dodecan-1-ol')
+              ]
+    
+    col_norm = lambda col: col/max(col)
+    #Group up Strains by Metadata (Average Across all Batches)
+    heatmap_df = df.groupby([('Metadata','Cycle'),('Metadata','Strain')]).mean()
+    
+    #Select Only Rows With TIR, Targeted Proteomics, and Dodecanol data
+    #display(heatmap_df[columns])
+    heatmap_df = heatmap_df[columns].dropna()
+    
+    #Normalize and Sort By Production
+    heatmap_df = heatmap_df.apply(col_norm,axis=0).sort_values(('GC-MS', 'dodecan-1-ol'))
+    
+    plt.figure(figsize=(20,6))
+    sns.heatmap(heatmap_df.transpose(),cmap="viridis")
+    plt.title('Strain Overview')
+    plt.ylabel('')
+    
+    y_ticks = ['TIR: LCFA_ECOLI','Protein: LCFA_ECOLI',
+               'TIR: FATB_UMBCA','Targeted Protein: FATB_UMBCA',
+               'TIR: A1U2T0_MARHV','Protein: A1U2T0_MARHV',
+               'TIR: A1U3L3_MARHV','Protein: A1U3L3_MARHV',
+               'TIR: ACR1_ACIAD','Protein: ACR1_ACIAD',
+               'TIR: AHR_ECOLI','Protein: AHR_ECOLI',
+               'dodecanol'
+              ]    
+    y_ticks.reverse()
+
+    ax = plt.gca()
+    #plt.yticks(rotation=0)
+    #ax.set_xticklabels(x_ticks)
+    ax.set_yticklabels(y_ticks)
+
+    
+    plt.tight_layout()
+    plt.show() 
+    
+
+def quality_plot(df,assay_types):
+    '''Visually Display Assay Quality Plots'''
+    df_group = df.groupby([('Metadata','Cycle'),('Metadata','Strain'),('Metadata','Batch'),('Metadata','IPTG')])
+    mean_df = df_group.mean()
+    std_df = df_group.std()
+    CoV_df = std_df/mean_df*100
+    
+    
+    
+    for assay in assay_types:
+        means = np.log10(mean_df[assay]).values.flatten()
+        CoVs = CoV_df[assay].values.flatten()
+        
+        finite_entries = np.logical_and(np.isfinite(means),np.isfinite(CoVs))
+        
+        means = means[finite_entries]
+        CoVs =  CoVs[finite_entries]
+        
+        plt.figure(figsize=(12,5))
+        plt.subplot(1,2,2)
+        sns.distplot(CoVs,norm_hist=True)
+        plt.title('Percent Error Distribution (Mean Coefficient of Variation: {:.1f}%)'.format(np.mean(CoVs)))
+        plt.ylabel('Relative Frequency')
+        plt.xlabel('Replicate Coefficient of Variation')
+        
+        plt.subplot(1,2,1)
+        plt.scatter(means,CoVs)
+        plt.title('{} Replicate Error'.format(assay))
+        plt.xlabel('Mean Measurement Value')
+        plt.ylabel('Coefficient of Variation')
+        
+        plt.tight_layout()
+        plt.show()

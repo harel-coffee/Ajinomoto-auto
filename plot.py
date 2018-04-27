@@ -2,9 +2,11 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from mpl_toolkits.axes_grid1 import AxesGrid
 from mpl_toolkits.axes_grid1 import make_axes_locatable
+from mpl_toolkits.mplot3d import Axes3D
+import seaborn as sns
+
 from sklearn.decomposition import PCA
 from sklearn.model_selection import learning_curve
-import seaborn as sns
 from scipy.stats import pearsonr
 import numpy as np
 
@@ -190,6 +192,8 @@ def plotModel(model,data,targets,midpoint=0.1,pcs=None,title=None,zlabel=None,ax
 def strain_heatmap(df):
     '''Plot a Heatmap of All Strains Along Side TIR & Production'''
     
+    sns.set_style('whitegrid')
+    
     #Create Matrix of all catagories for the heatmap and Normalize by Column with a maximum at 1 and a min at 0
     #columns = list(df.columns[df.columns.get_level_values(0).isin(['TIR','Targeted Proteomics'])]) + [('GC-MS', 'dodecan-1-ol')]
     columns = [('TIR','sp|P69451|LCFA_ECOLI'),('Targeted Proteomics','sp|P69451|LCFA_ECOLI'),
@@ -203,7 +207,7 @@ def strain_heatmap(df):
     
     col_norm = lambda col: col/max(col)
     #Group up Strains by Metadata (Average Across all Batches)
-    heatmap_df = df.groupby([('Metadata','Cycle'),('Metadata','Strain')]).mean()
+    heatmap_df = df.groupby([('Metadata','Cycle'),('Metadata','Strain'),('Metadata','IPTG')]).mean()
     
     #Select Only Rows With TIR, Targeted Proteomics, and Dodecanol data
     #display(heatmap_df[columns])
@@ -212,10 +216,15 @@ def strain_heatmap(df):
     #Normalize and Sort By Production
     heatmap_df = heatmap_df.apply(col_norm,axis=0).sort_values(('GC-MS', 'dodecan-1-ol'))
     
+    #Convert Zeros to NaNs
+    heatmap_df = heatmap_df.replace(0, float('NaN'))
+
+    
     plt.figure(figsize=(20,6))
-    sns.heatmap(heatmap_df.transpose(),cmap="viridis")
+    hm = sns.heatmap(heatmap_df.transpose(),cmap="viridis",cbar_kws={'ticks':[0,1]})
     plt.title('Strain Overview')
     plt.ylabel('')
+    plt.xlabel('Strain')
     
     y_ticks = ['TIR: LCFA_ECOLI','Protein: LCFA_ECOLI',
                'TIR: FATB_UMBCA','Targeted Protein: FATB_UMBCA',
@@ -226,18 +235,24 @@ def strain_heatmap(df):
                'dodecanol'
               ]    
     y_ticks.reverse()
-
+    
+    cycles = heatmap_df.reset_index()[('Metadata','Cycle')]
+    strains = heatmap_df.reset_index()[('Metadata','Strain')]
+    x_ticks = ['{}-{}'.format(int(cycle),int(strain)) for cycle,strain in zip(cycles,strains)]
+    
     ax = plt.gca()
-    #plt.yticks(rotation=0)
-    #ax.set_xticklabels(x_ticks)
+    plt.xticks(rotation=45)
+    ax.set_xticklabels(x_ticks)
     ax.set_yticklabels(y_ticks)
 
     
     plt.tight_layout()
-    plt.show() 
+    plt.savefig('figures/strain_heatmap.png',dpi=600)
+    
+    sns.reset_defaults()
     
 
-def quality_plot(df,assay_types):
+def quality_plot(df,assay_types,output_file=''):
     '''Visually Display Assay Quality Plots'''
     df_group = df.groupby([('Metadata','Cycle'),('Metadata','Strain'),('Metadata','Batch'),('Metadata','IPTG')])
     mean_df = df_group.mean()
@@ -264,9 +279,79 @@ def quality_plot(df,assay_types):
         
         plt.subplot(1,2,1)
         plt.scatter(means,CoVs)
+        plt.gca().set_axisbelow(True)
+        plt.grid()
+
         plt.title('{} Replicate Error'.format(assay))
-        plt.xlabel('Mean Measurement Value')
+        plt.xlabel('Log10 Mean Measurement Value')
         plt.ylabel('Coefficient of Variation')
         
         plt.tight_layout()
+        assay_nosp = assay.replace(' ','_')
+        plt.savefig('figures/{}_error.png'.format(assay_nosp,dpi=600))
         plt.show()
+        
+
+
+
+
+def plot_strains_3d(df,value=('GC-MS','dodecan-1-ol'),pathway=1,targets=None):
+    sns.set_style('whitegrid')
+    fig = plt.figure(figsize=(8,8))
+    ax = fig.add_subplot(111, projection='3d')
+
+    #Define Pathway Protein Columns
+    PATHWAY = df[('Metadata','Pathway')]==pathway
+    proteins = df['Targeted Proteomics'].loc[:,df['TIR'].loc[PATHWAY].all(axis=0) > 0].columns
+    
+    #Define Selectors
+    CYCLE_1 = df[('Metadata','Batch')] < 4
+    CYCLE_2 = df[('Metadata','Batch')] > 3
+    ZERO_VALUE = df[value]==0
+    
+    conditions = [(PATHWAY & CYCLE_1, 'k'),
+                  (PATHWAY & CYCLE_2, 'r')]
+    
+    for condition,color in conditions:
+        ax.scatter(*[df.loc[condition & ~ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins],
+                   s=df.loc[condition & ~ZERO_VALUE][value]*1000,
+                   marker='+',c=color)
+        
+        ax.scatter(*[df.loc[condition & ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins],
+                   s=50,marker='o',c=color)
+
+    #Plot Proteomic Targets if Given
+    if targets is not None:
+        pass
+        
+    #ax.scatter(pwc1df['LCFA_ECOLI'],pwc1df['FATB_UMBCA'],pwc1df[strain_proteins[i]],
+    #           s=pathway_df['Dodecanol']*1000,marker='+',c='k')
+
+    #Plot cycle1 data with zero production
+    #temp_df = pwc1df.loc[pwc1df['Dodecanol'] == 0]
+    #ax.scatter(temp_df['LCFA_ECOLI'],temp_df['FATB_UMBCA'],temp_df[strain_proteins[i]],
+    #           s=50,marker='o',c='k')
+
+
+    #Plot cycle2 data with nonzero production
+    #temp_df = pathway_df.loc[pathway_df['Cycle']==2]
+    #ax.scatter(temp_df['LCFA_ECOLI'],temp_df['FATB_UMBCA'],temp_df[strain_proteins[i]],
+    #           s=temp_df['Dodecanol']*1000,marker='+',c='r')
+
+    #Plot cycle2 data with zero production
+    #temp_df = pathway_df.loc[(pathway_df['Cycle']==2)&(pathway_df['Dodecanol']==0)]
+    #ax.scatter(temp_df['LCFA_ECOLI'],temp_df['FATB_UMBCA'],temp_df[strain_proteins[i]],
+    #           s=50,marker='o',c='r')
+
+    #Plot Targets
+    #temp_df = target_dfs[i]
+    #ax.scatter(temp_df['LCFA_ECOLI'],temp_df['FATB_UMBCA'],temp_df[strain_proteins[i]],
+    #           s=50,marker='*',c='b')
+
+    #Format Plot
+    plt.title('Proteomics vs. {}'.format(value[1]))
+    plt.xlabel(proteins[0])
+    plt.ylabel(proteins[1])
+    ax.set_zlabel(proteins[2])
+    plt.tight_layout()
+    plt.show()

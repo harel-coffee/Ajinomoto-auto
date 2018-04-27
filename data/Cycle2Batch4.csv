@@ -1,148 +1,508 @@
 Study ID,Study Name,Study Contact,Line ID,Line Name,Control,Strain,Carbon Source,Carbon Labeling,Line Experimenter,Line Contact,Protocol ID,Protocol Name,Assay ID,Assay Name,Measurement Type,Compartment,Measurement Updated,X Units,Y Units,27.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1929,GC-MS,50014,c2-b4-01_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.034531+00:00,hours,g/L,0.37076
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1929,GC-MS,50026,c2-b4-11_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.474076+00:00,hours,g/L,0.20522
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1929,GC-MS,50028,c2-b4-24_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.547356+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1929,GC-MS,50029,c2-b4-24_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.582770+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1929,GC-MS,50013,c2-b4-01_c2-R2,dodecan-1-ol,,2018-03-22 18:13:51.997827+00:00,hours,g/L,0.35211
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1929,GC-MS,50017,c2-b4-02_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.143332+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1929,GC-MS,50020,c2-b4-04_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.255915+00:00,hours,g/L,0.27516
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1929,GC-MS,50021,c2-b4-14_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.296909+00:00,hours,g/L,0.67963
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1929,GC-MS,50012,c2-b4-01_c2-R1,dodecan-1-ol,,2018-03-22 18:13:51.960741+00:00,hours,g/L,0.33696
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1929,GC-MS,50025,c2-b4-11_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.435900+00:00,hours,g/L,0.17383
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1929,GC-MS,50016,c2-b4-02_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.105754+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1929,GC-MS,50027,c2-b4-24_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.511553+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1929,GC-MS,50011,c2-b4-11_c1-R3,dodecan-1-ol,,2018-03-22 18:13:51.893065+00:00,hours,g/L,0.6788
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1929,GC-MS,50019,c2-b4-04_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.219779+00:00,hours,g/L,0.25846
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1929,GC-MS,50022,c2-b4-14_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.330422+00:00,hours,g/L,0.65743
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1929,GC-MS,50015,c2-b4-02_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.069616+00:00,hours,g/L,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1929,GC-MS,50010,c2-b4-11_c1-R2,dodecan-1-ol,,2018-03-22 18:13:51.846340+00:00,hours,g/L,0.6981
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1929,GC-MS,50023,c2-b4-14_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.358803+00:00,hours,g/L,0.63307
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1929,GC-MS,50024,c2-b4-11_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.399569+00:00,hours,g/L,0.16912
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1929,GC-MS,50018,c2-b4-04_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.179634+00:00,hours,g/L,0.24434
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1924,OD600,50470,c2-b4-32_delPtaelPoxB-R3,Optical Density,,2018-04-17 20:17:30.524406+00:00,hours,,1.40355
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1924,OD600,50469,c2-b4-32_delPtaelPoxB-R2,Optical Density,,2018-04-17 20:17:30.491673+00:00,hours,,1.26883
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1924,OD600,50464,c2-b4-32_delPoxB-R3,Optical Density,,2018-04-17 20:17:30.327072+00:00,hours,,2.56649
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1924,OD600,50466,c2-b4-32_delPta-R2,Optical Density,,2018-04-17 20:17:30.395477+00:00,hours,,3.5579
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1924,OD600,50458,c2-b4-11_c2-R3,Optical Density,,2018-04-17 20:17:30.137023+00:00,hours,,1.80901
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1924,OD600,50439,c2-b4-9017-R2,Optical Density,,2018-04-17 20:17:29.411845+00:00,hours,,7.60108
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1924,OD600,50438,c2-b4-9017-R1,Optical Density,,2018-04-17 20:17:29.369716+00:00,hours,,7.50093
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1924,OD600,50457,c2-b4-11_c2-R2,Optical Density,,2018-04-17 20:17:30.103629+00:00,hours,,1.64496
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1924,OD600,50465,c2-b4-32_delPta-R1,Optical Density,,2018-04-17 20:17:30.363491+00:00,hours,,3.71821
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1924,OD600,50456,c2-b4-11_c2-R1,Optical Density,,2018-04-17 20:17:30.071792+00:00,hours,,1.60105
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1924,OD600,50452,c2-b4-04_c2-R3,Optical Density,,2018-04-17 20:17:29.941081+00:00,hours,,4.3548
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1924,OD600,50463,c2-b4-32_delPoxB-R2,Optical Density,,2018-04-17 20:17:30.295495+00:00,hours,,2.59975
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1924,OD600,50461,c2-b4-24_c2-R3,Optical Density,,2018-04-17 20:17:30.227505+00:00,hours,,1.937
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1924,OD600,50451,c2-b4-04_c2-R2,Optical Density,,2018-04-17 20:17:29.907750+00:00,hours,,3.96522
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1924,OD600,50450,c2-b4-04_c2-R1,Optical Density,,2018-04-17 20:17:29.872902+00:00,hours,,3.88862
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1924,OD600,50460,c2-b4-24_c2-R2,Optical Density,,2018-04-17 20:17:30.195332+00:00,hours,,1.97549
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1924,OD600,50449,c2-b4-02_c2-R3,Optical Density,,2018-04-17 20:17:29.824935+00:00,hours,,3.79575
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1924,OD600,50448,c2-b4-02_c2-R2,Optical Density,,2018-04-17 20:17:29.763209+00:00,hours,,3.65749
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1924,OD600,50468,c2-b4-32_delPtaelPoxB-R1,Optical Density,,2018-04-17 20:17:30.459570+00:00,hours,,1.27874
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1924,OD600,50462,c2-b4-32_delPoxB-R1,Optical Density,,2018-04-17 20:17:30.264043+00:00,hours,,2.64833
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1924,OD600,50459,c2-b4-24_c2-R1,Optical Density,,2018-04-17 20:17:30.168279+00:00,hours,,1.83946
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1924,OD600,50447,c2-b4-02_c2-R1,Optical Density,,2018-04-17 20:17:29.731793+00:00,hours,,3.77165
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1924,OD600,50446,c2-b4-01_c2-R3,Optical Density,,2018-04-17 20:17:29.691110+00:00,hours,,4.63974
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1924,OD600,50455,c2-b4-14_c2-R3,Optical Density,,2018-04-17 20:17:30.039833+00:00,hours,,5.0282
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1924,OD600,50445,c2-b4-01_c2-R2,Optical Density,,2018-04-17 20:17:29.656234+00:00,hours,,4.3903
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1924,OD600,50444,c2-b4-01_c2-R1,Optical Density,,2018-04-17 20:17:29.618483+00:00,hours,,4.37367
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1924,OD600,50467,c2-b4-32_delPta-R3,Optical Density,,2018-04-17 20:17:30.426831+00:00,hours,,3.64104
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1924,OD600,50454,c2-b4-14_c2-R2,Optical Density,,2018-04-17 20:17:30.005081+00:00,hours,,5.09341
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1924,OD600,50443,c2-b4-11_c1-R3,Optical Density,,2018-04-17 20:17:29.578866+00:00,hours,,4.83799
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1924,OD600,50442,c2-b4-11_c1-R2,Optical Density,,2018-04-17 20:17:29.529151+00:00,hours,,4.86321
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1924,OD600,50453,c2-b4-14_c2-R1,Optical Density,,2018-04-17 20:17:29.971888+00:00,hours,,4.80548
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1924,OD600,50441,c2-b4-11_c1-R1,Optical Density,,2018-04-17 20:17:29.490264+00:00,hours,,4.60686
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1924,OD600,50440,c2-b4-9017-R3,Optical Density,,2018-04-17 20:17:29.452193+00:00,hours,,7.77466
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1929,GC-MS,50033,c2-b4-32_delPta-R1,octadecan-1-ol,,2018-04-13 01:28:36.477729+00:00,hours,g/L,0.16977
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1929,GC-MS,50010,c2-b4-11_c1-R2,hexadecan-1-ol,,2018-04-13 01:28:34.604194+00:00,hours,g/L,0.07187
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1929,GC-MS,50009,c2-b4-11_c1-R1,dodecan-1-ol,,2018-03-22 18:13:51.809337+00:00,hours,g/L,0.68394
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:23.903384+00:00,hours,,246862.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.931707+00:00,hours,,228708.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.960875+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:23.729028+00:00,hours,,269720.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.757795+00:00,hours,,250711.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.787991+00:00,hours,,1224.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:23.039524+00:00,hours,,251422.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.067874+00:00,hours,,303288.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.097833+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:22.850279+00:00,hours,,236865.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.894929+00:00,hours,,272740.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.925038+00:00,hours,,2353.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:22.653449+00:00,hours,,247382.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.682437+00:00,hours,,280000.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.710984+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:22.475664+00:00,hours,,296409.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.504738+00:00,hours,,17736.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.533706+00:00,hours,,1135.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:22.303901+00:00,hours,,294208.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.332601+00:00,hours,,25199.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.361407+00:00,hours,,887.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:22.128009+00:00,hours,,285965.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.157100+00:00,hours,,22397.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.187054+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:21.955537+00:00,hours,,235110.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.984608+00:00,hours,,189740.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.012701+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:21.784621+00:00,hours,,231424.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.813886+00:00,hours,,194337.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:21.842830+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:21.591297+00:00,hours,,217353.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.638230+00:00,hours,,175485.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:21.667898+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,LCFA_ECOLI,,2018-03-20 22:57:23.556191+00:00,hours,,211659.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.584381+00:00,hours,,117200.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.613792+00:00,hours,,632.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,LCFA_ECOLI,,2018-03-20 22:57:23.382477+00:00,hours,,219170.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.411276+00:00,hours,,116151.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.439460+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,LCFA_ECOLI,,2018-03-20 22:57:23.211868+00:00,hours,,217404.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.240140+00:00,hours,,105854.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.268585+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,AHR_ECOLI,,2018-03-20 22:57:25.200513+00:00,hours,,4773.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.344780+00:00,hours,,4815.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,AHR_ECOLI,,2018-03-20 22:57:25.028586+00:00,hours,,4330.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.172221+00:00,hours,,4972.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,AHR_ECOLI,,2018-03-20 22:57:24.859757+00:00,hours,,6290.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.000607+00:00,hours,,9208.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,AHR_ECOLI,,2018-03-20 22:57:24.650870+00:00,hours,,866.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.830770+00:00,hours,,189071.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,AHR_ECOLI,,2018-03-20 22:57:24.429003+00:00,hours,,1353.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.607363+00:00,hours,,207290.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,AHR_ECOLI,,2018-03-20 22:57:24.223782+00:00,hours,,1575.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.392994+00:00,hours,,199425.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,AHR_ECOLI,,2018-03-20 22:57:24.046897+00:00,hours,,2836.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.193363+00:00,hours,,1268031.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,AHR_ECOLI,,2018-03-20 22:57:23.875896+00:00,hours,,2978.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.018091+00:00,hours,,1395259.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,AHR_ECOLI,,2018-03-20 22:57:23.700879+00:00,hours,,4359.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.846694+00:00,hours,,1489403.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,AHR_ECOLI,,2018-03-20 22:57:23.011252+00:00,hours,,1849.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.154698+00:00,hours,,1597909.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,AHR_ECOLI,,2018-03-20 22:57:22.795953+00:00,hours,,1701.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.981673+00:00,hours,,1552524.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,AHR_ECOLI,,2018-03-20 22:57:22.624299+00:00,hours,,2000.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.767085+00:00,hours,,1545610.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,AHR_ECOLI,,2018-03-20 22:57:22.447697+00:00,hours,,1964.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.591811+00:00,hours,,1809021.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,AHR_ECOLI,,2018-03-20 22:57:22.274308+00:00,hours,,2230.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.419812+00:00,hours,,1690829.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,AHR_ECOLI,,2018-03-20 22:57:22.098618+00:00,hours,,1970.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.245735+00:00,hours,,1629038.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,AHR_ECOLI,,2018-03-20 22:57:21.926274+00:00,hours,,2469.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.070001+00:00,hours,,1528867.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,AHR_ECOLI,,2018-03-20 22:57:21.754807+00:00,hours,,1407.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:21.899589+00:00,hours,,1546227.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,AHR_ECOLI,,2018-03-20 22:57:21.464067+00:00,hours,,1935.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:21.724883+00:00,hours,,1518587.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,AHR_ECOLI,,2018-03-20 22:57:23.526012+00:00,hours,,2177.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.672398+00:00,hours,,878773.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,AHR_ECOLI,,2018-03-20 22:57:23.353219+00:00,hours,,2373.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.496535+00:00,hours,,944820.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,AHR_ECOLI,,2018-03-20 22:57:23.183712+00:00,hours,,1184.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.324076+00:00,hours,,937286.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:25.315883+00:00,hours,,50792.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1929,GC-MS,50029,c2-b4-24_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.582770+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1929,GC-MS,50009,c2-b4-11_c1-R1,tetradecan-1-ol,,2018-04-13 01:28:34.431353+00:00,hours,g/L,0.04607
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1929,GC-MS,50009,c2-b4-11_c1-R1,hexadecan-1-ol,,2018-04-13 01:28:34.478121+00:00,hours,g/L,0.07217
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1929,GC-MS,50029,c2-b4-24_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:36.133183+00:00,hours,g/L,0.02033
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1929,GC-MS,50009,c2-b4-11_c1-R1,octadecan-1-ol,,2018-04-13 01:28:34.521640+00:00,hours,g/L,0.0835
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1929,GC-MS,50008,c2-b4-9017-R3,dodecan-1-ol,,2018-03-22 18:13:51.766988+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1929,GC-MS,50029,c2-b4-24_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:36.161954+00:00,hours,g/L,0.06963
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1929,GC-MS,50008,c2-b4-9017-R3,tetradecan-1-ol,,2018-04-13 01:28:34.332707+00:00,hours,g/L,0.26482
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1929,GC-MS,50008,c2-b4-9017-R3,hexadecan-1-ol,,2018-04-13 01:28:34.365754+00:00,hours,g/L,0.73024
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1929,GC-MS,50038,c2-b4-32_delPtaelPoxB-R3,dodecan-1-ol,,2018-03-22 18:13:52.874686+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1929,GC-MS,50028,c2-b4-24_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.547356+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1929,GC-MS,50008,c2-b4-9017-R3,octadecan-1-ol,,2018-04-13 01:28:34.398530+00:00,hours,g/L,0.39947
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1929,GC-MS,50007,c2-b4-9017-R2,dodecan-1-ol,,2018-03-22 18:13:51.728991+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1929,GC-MS,50028,c2-b4-24_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:36.076092+00:00,hours,g/L,0.02042
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1929,GC-MS,50007,c2-b4-9017-R2,tetradecan-1-ol,,2018-04-13 01:28:34.235000+00:00,hours,g/L,0.25939
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1929,GC-MS,50007,c2-b4-9017-R2,hexadecan-1-ol,,2018-04-13 01:28:34.268335+00:00,hours,g/L,0.72986
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1929,GC-MS,50038,c2-b4-32_delPtaelPoxB-R3,tetradecan-1-ol,,2018-04-13 01:28:36.786496+00:00,hours,g/L,0.0204
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1929,GC-MS,50028,c2-b4-24_c2-R2,hexadecan-1-ol,,2018-04-13 01:28:36.103354+00:00,hours,g/L,0.06899
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1929,GC-MS,50007,c2-b4-9017-R2,octadecan-1-ol,,2018-04-13 01:28:34.300930+00:00,hours,g/L,0.38752
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1929,GC-MS,50006,c2-b4-9017-R1,dodecan-1-ol,,2018-03-22 18:13:51.666403+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1929,GC-MS,50027,c2-b4-24_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.511553+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1929,GC-MS,50006,c2-b4-9017-R1,tetradecan-1-ol,,2018-04-13 01:28:34.134233+00:00,hours,g/L,0.27287
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1929,GC-MS,50006,c2-b4-9017-R1,hexadecan-1-ol,,2018-04-13 01:28:34.168426+00:00,hours,g/L,0.74598
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1929,GC-MS,50037,c2-b4-32_delPtaelPoxB-R2,dodecan-1-ol,,2018-03-22 18:13:52.835123+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1929,GC-MS,50027,c2-b4-24_c2-R1,hexadecan-1-ol,,2018-04-13 01:28:36.019981+00:00,hours,g/L,0.06989
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1929,GC-MS,50006,c2-b4-9017-R1,octadecan-1-ol,,2018-04-13 01:28:34.201978+00:00,hours,g/L,0.41292
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1929,GC-MS,50027,c2-b4-24_c2-R1,octadecan-1-ol,,2018-04-13 01:28:36.048231+00:00,hours,g/L,0.08223
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1929,GC-MS,50037,c2-b4-32_delPtaelPoxB-R2,tetradecan-1-ol,,2018-04-13 01:28:36.729165+00:00,hours,g/L,0.02123
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1929,GC-MS,50023,c2-b4-14_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.358803+00:00,hours,g/L,0.63307
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1929,GC-MS,50023,c2-b4-14_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:35.681143+00:00,hours,g/L,0.04467
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1929,GC-MS,50037,c2-b4-32_delPtaelPoxB-R2,octadecan-1-ol,,2018-04-13 01:28:36.758729+00:00,hours,g/L,0.08151
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1929,GC-MS,50023,c2-b4-14_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:35.719987+00:00,hours,g/L,0.06882
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1929,GC-MS,50022,c2-b4-14_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.330422+00:00,hours,g/L,0.65743
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1929,GC-MS,50036,c2-b4-32_delPtaelPoxB-R1,dodecan-1-ol,,2018-03-22 18:13:52.794291+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1929,GC-MS,50022,c2-b4-14_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:35.640952+00:00,hours,g/L,0.04219
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1929,GC-MS,50021,c2-b4-14_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.296909+00:00,hours,g/L,0.67963
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1929,GC-MS,50036,c2-b4-32_delPtaelPoxB-R1,tetradecan-1-ol,,2018-04-13 01:28:36.672455+00:00,hours,g/L,0.02057
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1929,GC-MS,50021,c2-b4-14_c2-R1,tetradecan-1-ol,,2018-04-13 01:28:35.598857+00:00,hours,g/L,0.04432
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1929,GC-MS,50026,c2-b4-11_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.474076+00:00,hours,g/L,0.20522
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1929,GC-MS,50036,c2-b4-32_delPtaelPoxB-R1,hexadecan-1-ol,,2018-04-13 01:28:36.700624+00:00,hours,g/L,0.07085
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1929,GC-MS,50026,c2-b4-11_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:35.930881+00:00,hours,g/L,0.02441
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1929,GC-MS,50026,c2-b4-11_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:35.966489+00:00,hours,g/L,0.06904
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1929,GC-MS,50032,c2-b4-32_delPoxB-R3,dodecan-1-ol,,2018-03-22 18:13:52.674981+00:00,hours,g/L,0.05544
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1929,GC-MS,50026,c2-b4-11_c2-R3,octadecan-1-ol,,2018-04-13 01:28:35.993007+00:00,hours,g/L,0.08102
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1929,GC-MS,50025,c2-b4-11_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.435900+00:00,hours,g/L,0.17383
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1929,GC-MS,50032,c2-b4-32_delPoxB-R3,tetradecan-1-ol,,2018-04-13 01:28:36.334554+00:00,hours,g/L,0.07864
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1929,GC-MS,50025,c2-b4-11_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:35.844295+00:00,hours,g/L,0.0242
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1929,GC-MS,50025,c2-b4-11_c2-R2,hexadecan-1-ol,,2018-04-13 01:28:35.895041+00:00,hours,g/L,0.06896
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1929,GC-MS,50032,c2-b4-32_delPoxB-R3,hexadecan-1-ol,,2018-04-13 01:28:36.363161+00:00,hours,g/L,0.103
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1929,GC-MS,50024,c2-b4-11_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.399569+00:00,hours,g/L,0.16912
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1929,GC-MS,50024,c2-b4-11_c2-R1,tetradecan-1-ol,,2018-04-13 01:28:35.768196+00:00,hours,g/L,0.02279
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1929,GC-MS,50032,c2-b4-32_delPoxB-R3,octadecan-1-ol,,2018-04-13 01:28:36.391653+00:00,hours,g/L,0.17131
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1929,GC-MS,50024,c2-b4-11_c2-R1,octadecan-1-ol,,2018-04-13 01:28:35.808379+00:00,hours,g/L,0.08137
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1929,GC-MS,50020,c2-b4-04_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.255915+00:00,hours,g/L,0.27516
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1929,GC-MS,50031,c2-b4-32_delPoxB-R2,dodecan-1-ol,,2018-03-22 18:13:52.640858+00:00,hours,g/L,0.06605
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1929,GC-MS,50020,c2-b4-04_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:35.522895+00:00,hours,g/L,0.02661
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1929,GC-MS,50020,c2-b4-04_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:35.560438+00:00,hours,g/L,0.07606
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1929,GC-MS,50031,c2-b4-32_delPoxB-R2,hexadecan-1-ol,,2018-04-13 01:28:36.276579+00:00,hours,g/L,0.09726
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1929,GC-MS,50019,c2-b4-04_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.219779+00:00,hours,g/L,0.25846
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1929,GC-MS,50019,c2-b4-04_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:35.442609+00:00,hours,g/L,0.02766
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1929,GC-MS,50031,c2-b4-32_delPoxB-R2,octadecan-1-ol,,2018-04-13 01:28:36.305697+00:00,hours,g/L,0.15003
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1929,GC-MS,50019,c2-b4-04_c2-R2,hexadecan-1-ol,,2018-04-13 01:28:35.471850+00:00,hours,g/L,0.07463
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1929,GC-MS,50018,c2-b4-04_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.179634+00:00,hours,g/L,0.24434
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1929,GC-MS,50030,c2-b4-32_delPoxB-R1,dodecan-1-ol,,2018-03-22 18:13:52.612654+00:00,hours,g/L,0.09215
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1929,GC-MS,50018,c2-b4-04_c2-R1,tetradecan-1-ol,,2018-04-13 01:28:35.372187+00:00,hours,g/L,0.02561
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1929,GC-MS,50018,c2-b4-04_c2-R1,hexadecan-1-ol,,2018-04-13 01:28:35.406987+00:00,hours,g/L,0.07575
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1929,GC-MS,50030,c2-b4-32_delPoxB-R1,tetradecan-1-ol,,2018-04-13 01:28:36.191494+00:00,hours,g/L,0.02111
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1929,GC-MS,50017,c2-b4-02_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.143332+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1929,GC-MS,50017,c2-b4-02_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:35.263596+00:00,hours,g/L,0.02255
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1929,GC-MS,50030,c2-b4-32_delPoxB-R1,hexadecan-1-ol,,2018-04-13 01:28:36.220559+00:00,hours,g/L,0.10731
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1929,GC-MS,50017,c2-b4-02_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:35.300174+00:00,hours,g/L,0.0906
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1929,GC-MS,50017,c2-b4-02_c2-R3,octadecan-1-ol,,2018-04-13 01:28:35.339664+00:00,hours,g/L,0.08364
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1929,GC-MS,50030,c2-b4-32_delPoxB-R1,octadecan-1-ol,,2018-04-13 01:28:36.248621+00:00,hours,g/L,0.13531
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1929,GC-MS,50016,c2-b4-02_c2-R2,dodecan-1-ol,,2018-03-22 18:13:52.105754+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1929,GC-MS,50016,c2-b4-02_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:35.155741+00:00,hours,g/L,0.02139
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1929,GC-MS,50035,c2-b4-32_delPta-R3,dodecan-1-ol,,2018-03-22 18:13:52.749605+00:00,hours,g/L,0.08471
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1929,GC-MS,50016,c2-b4-02_c2-R2,hexadecan-1-ol,,2018-04-13 01:28:35.188898+00:00,hours,g/L,0.08794
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1929,GC-MS,50016,c2-b4-02_c2-R2,octadecan-1-ol,,2018-04-13 01:28:35.225937+00:00,hours,g/L,0.08138
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1929,GC-MS,50035,c2-b4-32_delPta-R3,tetradecan-1-ol,,2018-04-13 01:28:36.588467+00:00,hours,g/L,0.03387
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1929,GC-MS,50015,c2-b4-02_c2-R1,dodecan-1-ol,,2018-03-22 18:13:52.069616+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1929,GC-MS,50015,c2-b4-02_c2-R1,tetradecan-1-ol,,2018-04-13 01:28:35.030256+00:00,hours,g/L,0.0216
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1929,GC-MS,50035,c2-b4-32_delPta-R3,hexadecan-1-ol,,2018-04-13 01:28:36.615523+00:00,hours,g/L,0.10078
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1929,GC-MS,50015,c2-b4-02_c2-R1,hexadecan-1-ol,,2018-04-13 01:28:35.059485+00:00,hours,g/L,0.09023
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1929,GC-MS,50015,c2-b4-02_c2-R1,octadecan-1-ol,,2018-04-13 01:28:35.096699+00:00,hours,g/L,0.08115
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1929,GC-MS,50035,c2-b4-32_delPta-R3,octadecan-1-ol,,2018-04-13 01:28:36.644092+00:00,hours,g/L,0.17669
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1929,GC-MS,50014,c2-b4-01_c2-R3,dodecan-1-ol,,2018-03-22 18:13:52.034531+00:00,hours,g/L,0.37076
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1929,GC-MS,50014,c2-b4-01_c2-R3,tetradecan-1-ol,,2018-04-13 01:28:34.960618+00:00,hours,g/L,0.02739
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1929,GC-MS,50034,c2-b4-32_delPta-R2,dodecan-1-ol,,2018-03-22 18:13:52.724876+00:00,hours,g/L,0.10366
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1929,GC-MS,50014,c2-b4-01_c2-R3,hexadecan-1-ol,,2018-04-13 01:28:34.999762+00:00,hours,g/L,0.07394
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1929,GC-MS,50013,c2-b4-01_c2-R2,dodecan-1-ol,,2018-03-22 18:13:51.997827+00:00,hours,g/L,0.35211
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1929,GC-MS,50034,c2-b4-32_delPta-R2,tetradecan-1-ol,,2018-04-13 01:28:36.506485+00:00,hours,g/L,0.07422
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1929,GC-MS,50013,c2-b4-01_c2-R2,tetradecan-1-ol,,2018-04-13 01:28:34.887591+00:00,hours,g/L,0.02959
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1929,GC-MS,50013,c2-b4-01_c2-R2,hexadecan-1-ol,,2018-04-13 01:28:34.926407+00:00,hours,g/L,0.07328
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1929,GC-MS,50034,c2-b4-32_delPta-R2,hexadecan-1-ol,,2018-04-13 01:28:36.535250+00:00,hours,g/L,0.11327
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1929,GC-MS,50012,c2-b4-01_c2-R1,dodecan-1-ol,,2018-03-22 18:13:51.960741+00:00,hours,g/L,0.33696
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1929,GC-MS,50012,c2-b4-01_c2-R1,tetradecan-1-ol,,2018-04-13 01:28:34.753843+00:00,hours,g/L,0.02741
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1929,GC-MS,50034,c2-b4-32_delPta-R2,octadecan-1-ol,,2018-04-13 01:28:36.562138+00:00,hours,g/L,0.19477
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1929,GC-MS,50012,c2-b4-01_c2-R1,hexadecan-1-ol,,2018-04-13 01:28:34.810248+00:00,hours,g/L,0.07229
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1929,GC-MS,50012,c2-b4-01_c2-R1,octadecan-1-ol,,2018-04-13 01:28:34.847645+00:00,hours,g/L,0.08122
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1929,GC-MS,50033,c2-b4-32_delPta-R1,dodecan-1-ol,,2018-03-22 18:13:52.699427+00:00,hours,g/L,0.09751
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1929,GC-MS,50011,c2-b4-11_c1-R3,dodecan-1-ol,,2018-03-22 18:13:51.893065+00:00,hours,g/L,0.6788
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1929,GC-MS,50011,c2-b4-11_c1-R3,tetradecan-1-ol,,2018-04-13 01:28:34.643125+00:00,hours,g/L,0.04443
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1929,GC-MS,50033,c2-b4-32_delPta-R1,tetradecan-1-ol,,2018-04-13 01:28:36.420096+00:00,hours,g/L,0.03738
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1929,GC-MS,50011,c2-b4-11_c1-R3,hexadecan-1-ol,,2018-04-13 01:28:34.680929+00:00,hours,g/L,0.07124
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1929,GC-MS,50011,c2-b4-11_c1-R3,octadecan-1-ol,,2018-04-13 01:28:34.715722+00:00,hours,g/L,0.08357
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1929,GC-MS,50033,c2-b4-32_delPta-R1,hexadecan-1-ol,,2018-04-13 01:28:36.449277+00:00,hours,g/L,0.15676
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1929,GC-MS,50010,c2-b4-11_c1-R2,dodecan-1-ol,,2018-03-22 18:13:51.846340+00:00,hours,g/L,0.6981
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1929,GC-MS,50010,c2-b4-11_c1-R2,tetradecan-1-ol,,2018-04-13 01:28:34.560523+00:00,hours,g/L,0.04508
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1930,HPLC,50259,c2-b4-02_c2-R2,Acetate,,2018-04-12 23:06:42.488929+00:00,hours,g/L,2.10107
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1930,HPLC,50259,c2-b4-02_c2-R2,Pyruvate,,2018-04-12 23:06:42.515375+00:00,hours,g/L,0.01628
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1930,HPLC,50259,c2-b4-02_c2-R2,Succinate,,2018-04-12 23:06:42.544624+00:00,hours,g/L,0.10085
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1930,HPLC,50259,c2-b4-02_c2-R2,D-Lactate,,2018-04-12 23:06:42.567686+00:00,hours,g/L,0.04417
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1930,HPLC,50258,c2-b4-02_c2-R1,D-Glucose,,2018-04-12 23:06:42.275573+00:00,hours,g/L,4.15227
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1930,HPLC,50258,c2-b4-02_c2-R1,Acetate,,2018-04-12 23:06:42.306609+00:00,hours,g/L,1.92526
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1930,HPLC,50253,c2-b4-11_c1-R2,Pyruvate,,2018-04-12 23:06:41.519768+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1930,HPLC,50258,c2-b4-02_c2-R1,Pyruvate,,2018-04-12 23:06:42.339429+00:00,hours,g/L,0.01718
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1930,HPLC,50258,c2-b4-02_c2-R1,Succinate,,2018-04-12 23:06:42.380765+00:00,hours,g/L,0.08625
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1930,HPLC,50258,c2-b4-02_c2-R1,D-Lactate,,2018-04-12 23:06:42.413921+00:00,hours,g/L,0.03117
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1930,HPLC,50257,c2-b4-01_c2-R3,D-Glucose,,2018-04-12 23:06:42.099591+00:00,hours,g/L,0.83203
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1930,HPLC,50257,c2-b4-01_c2-R3,Acetate,,2018-04-12 23:06:42.135636+00:00,hours,g/L,1.00452
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1930,HPLC,50257,c2-b4-01_c2-R3,Pyruvate,,2018-04-12 23:06:42.161636+00:00,hours,g/L,0.02721
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1930,HPLC,50257,c2-b4-01_c2-R3,Succinate,,2018-04-12 23:06:42.196304+00:00,hours,g/L,0.09581
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1930,HPLC,50254,c2-b4-11_c1-R3,Succinate,,2018-04-12 23:06:41.720584+00:00,hours,g/L,0.14009
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1930,HPLC,50257,c2-b4-01_c2-R3,D-Lactate,,2018-04-12 23:06:42.238692+00:00,hours,g/L,0.06237
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1930,HPLC,50256,c2-b4-01_c2-R2,D-Glucose,,2018-04-12 23:06:41.955358+00:00,hours,g/L,1.3975
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1930,HPLC,50256,c2-b4-01_c2-R2,Acetate,,2018-04-12 23:06:41.980688+00:00,hours,g/L,1.08644
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1930,HPLC,50256,c2-b4-01_c2-R2,Pyruvate,,2018-04-12 23:06:42.001786+00:00,hours,g/L,0.03144
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1930,HPLC,50256,c2-b4-01_c2-R2,Succinate,,2018-04-12 23:06:42.028644+00:00,hours,g/L,0.09427
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1930,HPLC,50256,c2-b4-01_c2-R2,D-Lactate,,2018-04-12 23:06:42.054934+00:00,hours,g/L,0.06879
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1930,HPLC,50255,c2-b4-01_c2-R1,D-Glucose,,2018-04-12 23:06:41.798733+00:00,hours,g/L,1.45424
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1930,HPLC,50255,c2-b4-01_c2-R1,Acetate,,2018-04-12 23:06:41.828911+00:00,hours,g/L,0.80379
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1930,HPLC,50255,c2-b4-01_c2-R1,Pyruvate,,2018-04-12 23:06:41.856923+00:00,hours,g/L,0.03604
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1930,HPLC,50255,c2-b4-01_c2-R1,Succinate,,2018-04-12 23:06:41.888898+00:00,hours,g/L,0.12187
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1930,HPLC,50255,c2-b4-01_c2-R1,D-Lactate,,2018-04-12 23:06:41.921260+00:00,hours,g/L,0.09455
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1930,HPLC,50254,c2-b4-11_c1-R3,D-Glucose,,2018-04-12 23:06:41.628033+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1930,HPLC,50254,c2-b4-11_c1-R3,Acetate,,2018-04-12 23:06:41.656937+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1930,HPLC,50254,c2-b4-11_c1-R3,Pyruvate,,2018-04-12 23:06:41.683788+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1930,HPLC,50254,c2-b4-11_c1-R3,D-Lactate,,2018-04-12 23:06:41.754273+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1930,HPLC,50253,c2-b4-11_c1-R2,D-Glucose,,2018-04-12 23:06:41.472906+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1930,HPLC,50253,c2-b4-11_c1-R2,Acetate,,2018-04-12 23:06:41.500115+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1930,HPLC,50253,c2-b4-11_c1-R2,Succinate,,2018-04-12 23:06:41.562283+00:00,hours,g/L,0.09867
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1930,HPLC,50253,c2-b4-11_c1-R2,D-Lactate,,2018-04-12 23:06:41.594385+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1930,HPLC,50281,c2-b4-32_delPtaelPoxB-R3,D-Glucose,,2018-04-12 23:06:46.146850+00:00,hours,g/L,15.46615
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1930,HPLC,50252,c2-b4-11_c1-R1,D-Glucose,,2018-04-12 23:06:41.291842+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1930,HPLC,50252,c2-b4-11_c1-R1,Acetate,,2018-04-12 23:06:41.330097+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1930,HPLC,50281,c2-b4-32_delPtaelPoxB-R3,Acetate,,2018-04-12 23:06:46.230614+00:00,hours,g/L,0.22778
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1930,HPLC,50252,c2-b4-11_c1-R1,Pyruvate,,2018-04-12 23:06:41.364910+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1930,HPLC,50281,c2-b4-32_delPtaelPoxB-R3,Pyruvate,,2018-04-12 23:06:46.318240+00:00,hours,g/L,0.93312
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1930,HPLC,50281,c2-b4-32_delPtaelPoxB-R3,Succinate,,2018-04-12 23:06:46.416962+00:00,hours,g/L,0.09538
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1930,HPLC,50251,c2-b4-9017-R3,Acetate,,2018-04-12 23:06:41.150776+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1930,HPLC,50251,c2-b4-9017-R3,Pyruvate,,2018-04-12 23:06:41.183087+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1930,HPLC,50281,c2-b4-32_delPtaelPoxB-R3,D-Lactate,,2018-04-12 23:06:46.484353+00:00,hours,g/L,0.33066
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1930,HPLC,50280,c2-b4-32_delPtaelPoxB-R2,D-Glucose,,2018-04-12 23:06:45.959022+00:00,hours,g/L,16.40963
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1930,HPLC,50250,c2-b4-9017-R2,D-Glucose,,2018-04-12 23:06:40.900258+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1930,HPLC,50280,c2-b4-32_delPtaelPoxB-R2,Acetate,,2018-04-12 23:06:45.986913+00:00,hours,g/L,0.19554
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1930,HPLC,50280,c2-b4-32_delPtaelPoxB-R2,Pyruvate,,2018-04-12 23:06:46.012936+00:00,hours,g/L,0.90598
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1930,HPLC,50250,c2-b4-9017-R2,D-Lactate,,2018-04-12 23:06:41.038305+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1930,HPLC,50249,c2-b4-9017-R1,D-Glucose,,2018-04-12 23:06:40.728985+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1930,HPLC,50280,c2-b4-32_delPtaelPoxB-R2,Succinate,,2018-04-12 23:06:46.047815+00:00,hours,g/L,0.0979
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1930,HPLC,50280,c2-b4-32_delPtaelPoxB-R2,D-Lactate,,2018-04-12 23:06:46.079417+00:00,hours,g/L,0.28932
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1930,HPLC,50249,c2-b4-9017-R1,Succinate,,2018-04-12 23:06:40.835429+00:00,hours,g/L,0.12131
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1930,HPLC,50279,c2-b4-32_delPtaelPoxB-R1,D-Glucose,,2018-04-12 23:06:45.802113+00:00,hours,g/L,16.45748
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1930,HPLC,50279,c2-b4-32_delPtaelPoxB-R1,Acetate,,2018-04-12 23:06:45.831952+00:00,hours,g/L,0.21861
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1930,HPLC,50279,c2-b4-32_delPtaelPoxB-R1,Pyruvate,,2018-04-12 23:06:45.859849+00:00,hours,g/L,0.84853
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1930,HPLC,50279,c2-b4-32_delPtaelPoxB-R1,Succinate,,2018-04-12 23:06:45.892003+00:00,hours,g/L,0.07568
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1930,HPLC,50279,c2-b4-32_delPtaelPoxB-R1,D-Lactate,,2018-04-12 23:06:45.926922+00:00,hours,g/L,0.25846
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1930,HPLC,50275,c2-b4-32_delPoxB-R3,D-Glucose,,2018-04-12 23:06:45.155023+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1930,HPLC,50275,c2-b4-32_delPoxB-R3,Acetate,,2018-04-12 23:06:45.185423+00:00,hours,g/L,1.30512
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1930,HPLC,50275,c2-b4-32_delPoxB-R3,Pyruvate,,2018-04-12 23:06:45.213899+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1930,HPLC,50275,c2-b4-32_delPoxB-R3,Succinate,,2018-04-12 23:06:45.247470+00:00,hours,g/L,0.09878
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1930,HPLC,50275,c2-b4-32_delPoxB-R3,D-Lactate,,2018-04-12 23:06:45.279580+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1930,HPLC,50274,c2-b4-32_delPoxB-R2,D-Glucose,,2018-04-12 23:06:44.995186+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1930,HPLC,50274,c2-b4-32_delPoxB-R2,Acetate,,2018-04-12 23:06:45.028370+00:00,hours,g/L,1.32353
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1930,HPLC,50274,c2-b4-32_delPoxB-R2,Pyruvate,,2018-04-12 23:06:45.055817+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1930,HPLC,50274,c2-b4-32_delPoxB-R2,Succinate,,2018-04-12 23:06:45.089010+00:00,hours,g/L,0.14164
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1930,HPLC,50274,c2-b4-32_delPoxB-R2,D-Lactate,,2018-04-12 23:06:45.120226+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1930,HPLC,50273,c2-b4-32_delPoxB-R1,D-Glucose,,2018-04-12 23:06:44.832260+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1930,HPLC,50273,c2-b4-32_delPoxB-R1,Acetate,,2018-04-12 23:06:44.869636+00:00,hours,g/L,1.27192
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1930,HPLC,50273,c2-b4-32_delPoxB-R1,Pyruvate,,2018-04-12 23:06:44.897242+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1930,HPLC,50259,c2-b4-02_c2-R2,D-Glucose,,2018-04-12 23:06:42.455268+00:00,hours,g/L,4.34346
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1930,HPLC,50273,c2-b4-32_delPoxB-R1,Succinate,,2018-04-12 23:06:44.928927+00:00,hours,g/L,0.07821
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1930,HPLC,50260,c2-b4-02_c2-R3,D-Lactate,,2018-04-12 23:06:42.688527+00:00,hours,g/L,0.04132
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1930,HPLC,50273,c2-b4-32_delPoxB-R1,D-Lactate,,2018-04-12 23:06:44.961622+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1930,HPLC,50278,c2-b4-32_delPta-R3,D-Glucose,,2018-04-12 23:06:45.633498+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1930,HPLC,50278,c2-b4-32_delPta-R3,Acetate,,2018-04-12 23:06:45.668815+00:00,hours,g/L,0.01819
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1930,HPLC,50278,c2-b4-32_delPta-R3,Pyruvate,,2018-04-12 23:06:45.700988+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1930,HPLC,50278,c2-b4-32_delPta-R3,Succinate,,2018-04-12 23:06:45.732945+00:00,hours,g/L,0.05864
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1930,HPLC,50260,c2-b4-02_c2-R3,Acetate,,2018-04-12 23:06:42.620273+00:00,hours,g/L,2.13015
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1930,HPLC,50278,c2-b4-32_delPta-R3,D-Lactate,,2018-04-12 23:06:45.765011+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1930,HPLC,50277,c2-b4-32_delPta-R2,D-Glucose,,2018-04-12 23:06:45.469460+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1930,HPLC,50277,c2-b4-32_delPta-R2,Acetate,,2018-04-12 23:06:45.499261+00:00,hours,g/L,0.05385
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1930,HPLC,50277,c2-b4-32_delPta-R2,Pyruvate,,2018-04-12 23:06:45.531038+00:00,hours,g/L,0.00051
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1930,HPLC,50277,c2-b4-32_delPta-R2,Succinate,,2018-04-12 23:06:45.565047+00:00,hours,g/L,0.08231
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1930,HPLC,50277,c2-b4-32_delPta-R2,D-Lactate,,2018-04-12 23:06:45.600977+00:00,hours,g/L,0.06233
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1930,HPLC,50276,c2-b4-32_delPta-R1,D-Glucose,,2018-04-12 23:06:45.315376+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1930,HPLC,50261,c2-b4-04_c2-R1,Pyruvate,,2018-04-12 23:06:42.756273+00:00,hours,g/L,0.02466
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1930,HPLC,50276,c2-b4-32_delPta-R1,Acetate,,2018-04-12 23:06:45.344886+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1930,HPLC,50276,c2-b4-32_delPta-R1,Pyruvate,,2018-04-12 23:06:45.371720+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1930,HPLC,50276,c2-b4-32_delPta-R1,Succinate,,2018-04-12 23:06:45.403908+00:00,hours,g/L,0.05558
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1930,HPLC,50276,c2-b4-32_delPta-R1,D-Lactate,,2018-04-12 23:06:45.435750+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1930,HPLC,50272,c2-b4-24_c2-R3,D-Glucose,,2018-04-12 23:06:44.670985+00:00,hours,g/L,12.29675
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1930,HPLC,50272,c2-b4-24_c2-R3,Acetate,,2018-04-12 23:06:44.700942+00:00,hours,g/L,1.26934
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1930,HPLC,50250,c2-b4-9017-R2,Succinate,,2018-04-12 23:06:41.003077+00:00,hours,g/L,0.09923
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1930,HPLC,50262,c2-b4-04_c2-R2,Succinate,,2018-04-12 23:06:42.907832+00:00,hours,g/L,0.10782
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1930,HPLC,50272,c2-b4-24_c2-R3,Pyruvate,,2018-04-12 23:06:44.728548+00:00,hours,g/L,0.80888
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1930,HPLC,50272,c2-b4-24_c2-R3,Succinate,,2018-04-12 23:06:44.759614+00:00,hours,g/L,0.05162
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1930,HPLC,50272,c2-b4-24_c2-R3,D-Lactate,,2018-04-12 23:06:44.793425+00:00,hours,g/L,0.12326
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1930,HPLC,50271,c2-b4-24_c2-R2,D-Glucose,,2018-04-12 23:06:44.422915+00:00,hours,g/L,14.27243
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1930,HPLC,50271,c2-b4-24_c2-R2,Acetate,,2018-04-12 23:06:44.472410+00:00,hours,g/L,1.35079
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1930,HPLC,50271,c2-b4-24_c2-R2,Pyruvate,,2018-04-12 23:06:44.522101+00:00,hours,g/L,0.35239
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1930,HPLC,50271,c2-b4-24_c2-R2,Succinate,,2018-04-12 23:06:44.605127+00:00,hours,g/L,0.06047
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1930,HPLC,50263,c2-b4-04_c2-R3,D-Lactate,,2018-04-12 23:06:43.116958+00:00,hours,g/L,0.05576
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1930,HPLC,50271,c2-b4-24_c2-R2,D-Lactate,,2018-04-12 23:06:44.639788+00:00,hours,g/L,0.08188
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1930,HPLC,50263,c2-b4-04_c2-R3,Succinate,,2018-04-12 23:06:43.084974+00:00,hours,g/L,0.09076
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1930,HPLC,50270,c2-b4-24_c2-R1,D-Glucose,,2018-04-12 23:06:44.229653+00:00,hours,g/L,13.26448
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1930,HPLC,50270,c2-b4-24_c2-R1,Acetate,,2018-04-12 23:06:44.258895+00:00,hours,g/L,1.29916
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1930,HPLC,50270,c2-b4-24_c2-R1,Pyruvate,,2018-04-12 23:06:44.284569+00:00,hours,g/L,0.7013
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1930,HPLC,50270,c2-b4-24_c2-R1,Succinate,,2018-04-12 23:06:44.320061+00:00,hours,g/L,0.04728
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1930,HPLC,50270,c2-b4-24_c2-R1,D-Lactate,,2018-04-12 23:06:44.353896+00:00,hours,g/L,0.10471
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1930,HPLC,50263,c2-b4-04_c2-R3,D-Glucose,,2018-04-12 23:06:42.992828+00:00,hours,g/L,1.5991
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1930,HPLC,50266,c2-b4-14_c2-R3,D-Glucose,,2018-04-12 23:06:43.462736+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1930,HPLC,50266,c2-b4-14_c2-R3,Acetate,,2018-04-12 23:06:43.490836+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1930,HPLC,50266,c2-b4-14_c2-R3,Pyruvate,,2018-04-12 23:06:43.516956+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1930,HPLC,50249,c2-b4-9017-R1,Pyruvate,,2018-04-12 23:06:40.807657+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1930,HPLC,50249,c2-b4-9017-R1,D-Lactate,,2018-04-12 23:06:40.861492+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1930,HPLC,50266,c2-b4-14_c2-R3,Succinate,,2018-04-12 23:06:43.551506+00:00,hours,g/L,0.09528
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1930,HPLC,50266,c2-b4-14_c2-R3,D-Lactate,,2018-04-12 23:06:43.582344+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1930,HPLC,50267,c2-b4-11_c2-R1,Acetate,,2018-04-12 23:06:43.646925+00:00,hours,g/L,1.16211
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1930,HPLC,50265,c2-b4-14_c2-R2,D-Glucose,,2018-04-12 23:06:43.305231+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1930,HPLC,50267,c2-b4-11_c2-R1,D-Glucose,,2018-04-12 23:06:43.617445+00:00,hours,g/L,13.79359
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1930,HPLC,50265,c2-b4-14_c2-R2,Acetate,,2018-04-12 23:06:43.332972+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1930,HPLC,50265,c2-b4-14_c2-R2,Pyruvate,,2018-04-12 23:06:43.359926+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1930,HPLC,50265,c2-b4-14_c2-R2,Succinate,,2018-04-12 23:06:43.394115+00:00,hours,g/L,0.10429
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1930,HPLC,50265,c2-b4-14_c2-R2,D-Lactate,,2018-04-12 23:06:43.426306+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1930,HPLC,50264,c2-b4-14_c2-R1,D-Glucose,,2018-04-12 23:06:43.152945+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1930,HPLC,50249,c2-b4-9017-R1,Acetate,,2018-04-12 23:06:40.773764+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1930,HPLC,50264,c2-b4-14_c2-R1,Acetate,,2018-04-12 23:06:43.180957+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1930,HPLC,50264,c2-b4-14_c2-R1,Pyruvate,,2018-04-12 23:06:43.207810+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1930,HPLC,50264,c2-b4-14_c2-R1,Succinate,,2018-04-12 23:06:43.238487+00:00,hours,g/L,0.09759
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1930,HPLC,50264,c2-b4-14_c2-R1,D-Lactate,,2018-04-12 23:06:43.268915+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1930,HPLC,50269,c2-b4-11_c2-R3,D-Glucose,,2018-04-12 23:06:44.006891+00:00,hours,g/L,12.2638
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1930,HPLC,50269,c2-b4-11_c2-R3,Acetate,,2018-04-12 23:06:44.083306+00:00,hours,g/L,1.23885
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1930,HPLC,50269,c2-b4-11_c2-R3,Pyruvate,,2018-04-12 23:06:44.133369+00:00,hours,g/L,0.1702
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1930,HPLC,50269,c2-b4-11_c2-R3,Succinate,,2018-04-12 23:06:44.165253+00:00,hours,g/L,0.06099
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1930,HPLC,50250,c2-b4-9017-R2,Acetate,,2018-04-12 23:06:40.939148+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1930,HPLC,50269,c2-b4-11_c2-R3,D-Lactate,,2018-04-12 23:06:44.196793+00:00,hours,g/L,0.11694
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1930,HPLC,50268,c2-b4-11_c2-R2,D-Glucose,,2018-04-12 23:06:43.798754+00:00,hours,g/L,13.13254
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1930,HPLC,50268,c2-b4-11_c2-R2,Acetate,,2018-04-12 23:06:43.845444+00:00,hours,g/L,1.26488
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1930,HPLC,50268,c2-b4-11_c2-R2,Pyruvate,,2018-04-12 23:06:43.900975+00:00,hours,g/L,0.12558
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1930,HPLC,50268,c2-b4-11_c2-R2,Succinate,,2018-04-12 23:06:43.938176+00:00,hours,g/L,0.06013
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1930,HPLC,50268,c2-b4-11_c2-R2,D-Lactate,,2018-04-12 23:06:43.976934+00:00,hours,g/L,0.09861
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1930,HPLC,50250,c2-b4-9017-R2,Pyruvate,,2018-04-12 23:06:40.965963+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1930,HPLC,50251,c2-b4-9017-R3,Succinate,,2018-04-12 23:06:41.224782+00:00,hours,g/L,0.12581
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1930,HPLC,50267,c2-b4-11_c2-R1,Pyruvate,,2018-04-12 23:06:43.676849+00:00,hours,g/L,0.06664
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1930,HPLC,50267,c2-b4-11_c2-R1,Succinate,,2018-04-12 23:06:43.712907+00:00,hours,g/L,0.0551
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1930,HPLC,50267,c2-b4-11_c2-R1,D-Lactate,,2018-04-12 23:06:43.743672+00:00,hours,g/L,0.09434
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1930,HPLC,50263,c2-b4-04_c2-R3,Acetate,,2018-04-12 23:06:43.022954+00:00,hours,g/L,1.29715
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1930,HPLC,50263,c2-b4-04_c2-R3,Pyruvate,,2018-04-12 23:06:43.051509+00:00,hours,g/L,0.02244
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1930,HPLC,50251,c2-b4-9017-R3,D-Lactate,,2018-04-12 23:06:41.258439+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1930,HPLC,50251,c2-b4-9017-R3,D-Glucose,,2018-04-12 23:06:41.102256+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1930,HPLC,50262,c2-b4-04_c2-R2,D-Glucose,,2018-04-12 23:06:42.836397+00:00,hours,g/L,2.80612
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1930,HPLC,50262,c2-b4-04_c2-R2,Acetate,,2018-04-12 23:06:42.859716+00:00,hours,g/L,1.51547
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1930,HPLC,50262,c2-b4-04_c2-R2,Pyruvate,,2018-04-12 23:06:42.881525+00:00,hours,g/L,0.02246
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1930,HPLC,50262,c2-b4-04_c2-R2,D-Lactate,,2018-04-12 23:06:42.947680+00:00,hours,g/L,0.06661
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1930,HPLC,50261,c2-b4-04_c2-R1,D-Glucose,,2018-04-12 23:06:42.714348+00:00,hours,g/L,3.21502
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1930,HPLC,50261,c2-b4-04_c2-R1,Acetate,,2018-04-12 23:06:42.735552+00:00,hours,g/L,1.5607
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1930,HPLC,50252,c2-b4-11_c1-R1,D-Lactate,,2018-04-12 23:06:41.439922+00:00,hours,g/L,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1930,HPLC,50261,c2-b4-04_c2-R1,Succinate,,2018-04-12 23:06:42.782906+00:00,hours,g/L,0.10134
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1930,HPLC,50261,c2-b4-04_c2-R1,D-Lactate,,2018-04-12 23:06:42.809524+00:00,hours,g/L,0.0578
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1930,HPLC,50260,c2-b4-02_c2-R3,D-Glucose,,2018-04-12 23:06:42.598145+00:00,hours,g/L,4.48272
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1930,HPLC,50260,c2-b4-02_c2-R3,Pyruvate,,2018-04-12 23:06:42.640799+00:00,hours,g/L,0.0174
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1930,HPLC,50260,c2-b4-02_c2-R3,Succinate,,2018-04-12 23:06:42.664227+00:00,hours,g/L,0.09543
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1930,HPLC,50252,c2-b4-11_c1-R1,Succinate,,2018-04-12 23:06:41.401393+00:00,hours,g/L,0.12686
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:25.143309+00:00,hours,,52750.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:27.577097+00:00,hours,,122361.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.989333+00:00,hours,,626.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:25.084897+00:00,hours,,47381.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.757795+00:00,hours,,250711.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.717074+00:00,hours,,159985.0
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.972012+00:00,hours,,51402.0
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.789107+00:00,hours,,30344.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.572884+00:00,hours,,38410.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.355478+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.164840+00:00,hours,,1403.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.989333+00:00,hours,,626.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.818081+00:00,hours,,47683.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.125999+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.953323+00:00,hours,,10681.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.738919+00:00,hours,,15026.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.562724+00:00,hours,,5642.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.391696+00:00,hours,,18468.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.216220+00:00,hours,,5618.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.041165+00:00,hours,,528.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:21.871607+00:00,hours,,1896.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:21.696506+00:00,hours,,10196.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.643654+00:00,hours,,26890.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.467465+00:00,hours,,27669.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:25.229926+00:00,hours,,5650.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.295902+00:00,hours,,6728.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:25.259238+00:00,hours,,42775.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:25.288051+00:00,hours,,1574.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:25.056479+00:00,hours,,178.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:25.084897+00:00,hours,,47381.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:25.113891+00:00,hours,,795.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:24.888145+00:00,hours,,1865.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.915759+00:00,hours,,43929.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.943449+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:24.684249+00:00,hours,,226752.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.717074+00:00,hours,,159985.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.750988+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:24.465862+00:00,hours,,201418.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.672398+00:00,hours,,878773.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,LCFA_ECOLI,,2018-03-20 22:57:27.274220+00:00,hours,,106337.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:23.903384+00:00,hours,,246862.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,AHR_ECOLI,,2018-03-20 22:57:23.875896+00:00,hours,,2978.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.613792+00:00,hours,,632.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.193363+00:00,hours,,1268031.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:27.317673+00:00,hours,,77368.0
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.500285+00:00,hours,,156355.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,AHR_ECOLI,,2018-03-20 22:57:22.624299+00:00,hours,,2000.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:27.387210+00:00,hours,,140031.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.164840+00:00,hours,,1403.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:27.415397+00:00,hours,,3813.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.931707+00:00,hours,,228708.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:24.465862+00:00,hours,,201418.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,AHR_ECOLI,,2018-03-20 22:57:27.022359+00:00,hours,,7130.0
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.538973+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:24.254404+00:00,hours,,234896.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.288795+00:00,hours,,159139.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.319936+00:00,hours,,0.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:24.076370+00:00,hours,,229763.0
-49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.105980+00:00,hours,,213330.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:21.591297+00:00,hours,,217353.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:27.140290+00:00,hours,,122034.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:27.109652+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:27.186258+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:21.899589+00:00,hours,,1546227.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,LCFA_ECOLI,,2018-03-20 22:57:26.309787+00:00,hours,,490153.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,AHR_ECOLI,,2018-03-20 22:57:26.265805+00:00,hours,,2673.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.607363+00:00,hours,,207290.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:21.842830+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.441034+00:00,hours,,256110.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:26.397350+00:00,hours,,1891.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.470003+00:00,hours,,3353.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,LCFA_ECOLI,,2018-03-20 22:57:27.051519+00:00,hours,,106205.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.572884+00:00,hours,,38410.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49953,c2-b4-14_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49986,c2-b4-14_c2-R2,AHR_ECOLI,,2018-03-20 22:57:24.429003+00:00,hours,,1353.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,AHR_ECOLI,,2018-03-20 22:57:24.223782+00:00,hours,,1575.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.070001+00:00,hours,,1528867.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.182015+00:00,hours,,331456.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:26.153354+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.211850+00:00,hours,,2151.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.012701+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:24.355478+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:25.288051+00:00,hours,,1574.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:26.123365+00:00,hours,,267757.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:25.259238+00:00,hours,,42775.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.245735+00:00,hours,,1629038.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.216220+00:00,hours,,5618.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,AHR_ECOLI,,2018-03-20 22:57:24.046897+00:00,hours,,2836.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.157100+00:00,hours,,22397.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.615945+00:00,hours,,237227.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:26.935695+00:00,hours,,1272.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,AHR_ECOLI,,2018-03-20 22:57:26.849207+00:00,hours,,2865.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.391696+00:00,hours,,18468.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,LCFA_ECOLI,,2018-03-20 22:57:26.527754+00:00,hours,,401072.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:26.734153+00:00,hours,,231933.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.964990+00:00,hours,,252367.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:22.303901+00:00,hours,,294208.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,AHR_ECOLI,,2018-03-20 22:57:22.274308+00:00,hours,,2230.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.591811+00:00,hours,,1809021.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.820172+00:00,hours,,2566.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.993508+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,AHR_ECOLI,,2018-03-20 22:57:26.677033+00:00,hours,,3154.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,AHR_ECOLI,,2018-03-20 22:57:22.447697+00:00,hours,,1964.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,AHR_ECOLI,,2018-03-20 22:57:25.200513+00:00,hours,,4773.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.738919+00:00,hours,,15026.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.960875+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:26.906800+00:00,hours,,231705.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,AHR_ECOLI,,2018-03-20 22:57:25.028586+00:00,hours,,4330.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:23.729028+00:00,hours,,269720.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,LCFA_ECOLI,,2018-03-20 22:57:27.492270+00:00,hours,,107120.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:24.684249+00:00,hours,,226752.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.067874+00:00,hours,,303288.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.787991+00:00,hours,,1224.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.818081+00:00,hours,,47683.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:28.059245+00:00,hours,,1973.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.682437+00:00,hours,,280000.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.846694+00:00,hours,,1489403.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:27.747883+00:00,hours,,2230581.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:27.719932+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,AHR_ECOLI,,2018-03-20 22:57:23.011252+00:00,hours,,1849.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,LCFA_ECOLI,,2018-03-20 22:57:27.662970+00:00,hours,,43330.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,AHR_ECOLI,,2018-03-20 22:57:25.892938+00:00,hours,,4231.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:24.888145+00:00,hours,,1865.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.894929+00:00,hours,,272740.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:27.890566+00:00,hours,,2056.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:27.862188+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,LCFA_ECOLI,,2018-03-20 22:57:27.833512+00:00,hours,,43925.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,AHR_ECOLI,,2018-03-20 22:57:27.805215+00:00,hours,,1819.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:28.087575+00:00,hours,,1964492.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.915759+00:00,hours,,43929.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.006087+00:00,hours,,268295.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.154698+00:00,hours,,1597909.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.295902+00:00,hours,,6728.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.268585+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,LCFA_ECOLI,,2018-03-20 22:57:23.211868+00:00,hours,,217404.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,AHR_ECOLI,,2018-03-20 22:57:27.443174+00:00,hours,,6732.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.496535+00:00,hours,,944820.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.467465+00:00,hours,,27669.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.710984+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:27.548022+00:00,hours,,1326.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,AHR_ECOLI,,2018-03-20 22:57:23.353219+00:00,hours,,2373.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.172221+00:00,hours,,4972.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49960,c2-b4-32_delPta-R3,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49999,c2-b4-32_delPta-R3,LCFA_ECOLI,,2018-03-20 22:57:26.877856+00:00,hours,,409379.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,AHR_ECOLI,,2018-03-20 22:57:27.230899+00:00,hours,,7568.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,LCFA_ECOLI,,2018-03-20 22:57:23.556191+00:00,hours,,211659.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,AHR_ECOLI,,2018-03-20 22:57:23.526012+00:00,hours,,2177.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:21.724883+00:00,hours,,1518587.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49965,c2-b4-32_delPtaelPoxB-R2,F,JW3077,,,,,1941,Targeted Proteomics,50001,c2-b4-32_delPtaelPoxB-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:27.359020+00:00,hours,,1981.0
 49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.134728+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.392994+00:00,hours,,199425.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:24.076370+00:00,hours,,229763.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49964,c2-b4-32_delPtaelPoxB-R1,F,JW3077,,,,,1941,Targeted Proteomics,50000,c2-b4-32_delPtaelPoxB-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:27.079690+00:00,hours,,71956.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:24.254404+00:00,hours,,234896.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:25.056479+00:00,hours,,178.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:27.605185+00:00,hours,,3271.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49963,c2-b4-32_delPoxB-R3,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49996,c2-b4-32_delPoxB-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:26.353134+00:00,hours,,240460.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49951,c2-b4-11_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49984,c2-b4-11_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.105980+00:00,hours,,213330.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:25.315883+00:00,hours,,50792.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.344780+00:00,hours,,4815.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.984608+00:00,hours,,189740.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,AHR_ECOLI,,2018-03-20 22:57:21.926274+00:00,hours,,2469.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.504738+00:00,hours,,17736.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:26.585880+00:00,hours,,1510.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:22.128009+00:00,hours,,285965.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,AHR_ECOLI,,2018-03-20 22:57:26.499272+00:00,hours,,3382.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.361407+00:00,hours,,887.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:26.791980+00:00,hours,,268108.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:26.763199+00:00,hours,,896.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.533706+00:00,hours,,1135.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:22.475664+00:00,hours,,296409.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:24.288795+00:00,hours,,159139.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,AHR_ECOLI,,2018-03-20 22:57:26.064227+00:00,hours,,4098.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49949,c2-b4-11_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49982,c2-b4-11_c2-R1,AHR_ECOLI,,2018-03-20 22:57:23.700879+00:00,hours,,4359.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:22.850279+00:00,hours,,236865.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,LCFA_ECOLI,,2018-03-20 22:57:28.003529+00:00,hours,,45408.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,LCFA_ECOLI,,2018-03-20 22:57:25.920927+00:00,hours,,503571.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:27.776718+00:00,hours,,583.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.097833+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:23.039524+00:00,hours,,251422.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,AHR_ECOLI,,2018-03-20 22:57:27.634014+00:00,hours,,2158.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49956,c2-b4-24_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49989,c2-b4-24_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:25.113891+00:00,hours,,795.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49962,c2-b4-32_delPoxB-R2,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49995,c2-b4-32_delPoxB-R2,LCFA_ECOLI,,2018-03-20 22:57:26.094085+00:00,hours,,531396.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:28.115325+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:28.031128+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,AHR_ECOLI,,2018-03-20 22:57:22.795953+00:00,hours,,1701.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.240140+00:00,hours,,105854.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:25.977974+00:00,hours,,955.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:23.439460+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.034766+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.643654+00:00,hours,,26890.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49939,c2-b4-11_c1-R3,F,JBEI-17785,,,,,1941,Targeted Proteomics,49981,c2-b4-11_c1-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.584381+00:00,hours,,117200.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,LCFA_ECOLI,,2018-03-20 22:57:22.653449+00:00,hours,,247382.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.638230+00:00,hours,,175485.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,AHR_ECOLI,,2018-03-20 22:57:21.464067+00:00,hours,,1935.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:21.871607+00:00,hours,,1896.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:21.813886+00:00,hours,,194337.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,AHR_ECOLI,,2018-03-20 22:57:21.754807+00:00,hours,,1407.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.041165+00:00,hours,,528.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49957,c2-b4-24_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49990,c2-b4-24_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:25.229926+00:00,hours,,5650.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.187054+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.419812+00:00,hours,,1690829.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49944,c2-b4-02_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49974,c2-b4-02_c2-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:22.332601+00:00,hours,,25199.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49959,c2-b4-32_delPta-R2,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49998,c2-b4-32_delPta-R2,LCFA_ECOLI,,2018-03-20 22:57:26.705580+00:00,hours,,373924.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49946,c2-b4-04_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49976,c2-b4-04_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.767085+00:00,hours,,1545610.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,AHR_ECOLI,,2018-03-20 22:57:24.859757+00:00,hours,,6290.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:25.000607+00:00,hours,,9208.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49952,c2-b4-14_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49985,c2-b4-14_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.319936+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49934,c2-b4-9017-R1,F,JBEI-9017,,,,,1941,Targeted Proteomics,50003,c2-b4-9017-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:27.691310+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:27.919175+00:00,hours,,2323200.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49948,c2-b4-04_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49978,c2-b4-04_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:23.125999+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:23.324076+00:00,hours,,937286.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49937,c2-b4-11_c1-R1,F,JBEI-17785,,,,,1941,Targeted Proteomics,49979,c2-b4-11_c1-R1,AHR_ECOLI,,2018-03-20 22:57:23.183712+00:00,hours,,1184.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,LCFA_ECOLI,,2018-03-20 22:57:23.382477+00:00,hours,,219170.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:22.981673+00:00,hours,,1552524.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:21.667898+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:26.648964+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49961,c2-b4-32_delPoxB-R1,F,C1-32-delPoxB,,,,,1941,Targeted Proteomics,49994,c2-b4-32_delPoxB-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:25.949427+00:00,hours,,259008.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49942,c2-b4-01_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49972,c2-b4-01_c2-R3,LCFA_ECOLI,,2018-03-20 22:57:21.955537+00:00,hours,,235110.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49958,c2-b4-32_delPta-R1,F,c1-32-delPta,,,,,1941,Targeted Proteomics,49997,c2-b4-32_delPta-R1,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:26.556945+00:00,hours,,213722.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49945,c2-b4-02_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49975,c2-b4-02_c2-R3,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.562724+00:00,hours,,5642.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49950,c2-b4-11_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49983,c2-b4-11_c2-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.018091+00:00,hours,,1395259.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,AHR_ECOLI,,2018-03-20 22:57:24.650870+00:00,hours,,866.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49955,c2-b4-24_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49988,c2-b4-24_c2-R1,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.943449+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49936,c2-b4-9017-R3,F,JBEI-9017,,,,,1941,Targeted Proteomics,50005,c2-b4-9017-R3,AHR_ECOLI,,2018-03-20 22:57:27.975355+00:00,hours,,1574.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:22.953323+00:00,hours,,10681.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49940,c2-b4-01_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49970,c2-b4-01_c2-R1,tr|A1U2T0|A1U2T0_MARHV,,2018-03-20 22:57:21.696506+00:00,hours,,10196.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49941,c2-b4-01_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49971,c2-b4-01_c2-R2,LCFA_ECOLI,,2018-03-20 22:57:21.784621+00:00,hours,,231424.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49943,c2-b4-02_c2-R1,F,TBD,,,,,1941,Targeted Proteomics,49973,c2-b4-02_c2-R1,AHR_ECOLI,,2018-03-20 22:57:22.098618+00:00,hours,,1970.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49966,c2-b4-32_delPtaelPoxB-R3,F,JW3077,,,,,1941,Targeted Proteomics,50002,c2-b4-32_delPtaelPoxB-R3,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:27.520058+00:00,hours,,71803.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49935,c2-b4-9017-R2,F,JBEI-9017,,,,,1941,Targeted Proteomics,50004,c2-b4-9017-R2,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:27.947414+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49938,c2-b4-11_c1-R2,F,JBEI-17785,,,,,1941,Targeted Proteomics,49980,c2-b4-11_c1-R2,sp|Q41635|FATB_UMBCA,,2018-03-20 22:57:23.411276+00:00,hours,,116151.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,tr|A1U3L3|A1U3L3_MARHV,,2018-03-20 22:57:24.830770+00:00,hours,,189071.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49954,c2-b4-14_c2-R3,F,TBD,,,,,1941,Targeted Proteomics,49987,c2-b4-14_c2-R3,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:24.750988+00:00,hours,,0.0
+49870,Ajinomoto cycle 2 batch 4,PaulOpgenorth@lbl.gov,49947,c2-b4-04_c2-R2,F,TBD,,,,,1941,Targeted Proteomics,49977,c2-b4-04_c2-R2,sp|Q6F7B8|ACR1_ACIAD,,2018-03-20 22:57:22.925038+00:00,hours,,2353.0

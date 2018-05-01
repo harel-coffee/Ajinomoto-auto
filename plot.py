@@ -10,6 +10,9 @@ from sklearn.model_selection import learning_curve
 from scipy.stats import pearsonr
 import numpy as np
 
+#import plotly.plotly as py
+from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+import plotly.graph_objs as go
 
 def plot_corr(df,title='',mask_insignificant=True):
     '''Plots a Correlation Grid'''
@@ -295,7 +298,22 @@ def quality_plot(df,assay_types,output_file=''):
 
 
 
-def plot_strains_3d(df,value=('GC-MS','dodecan-1-ol'),pathway=1,targets=None):
+def strain_plot3d(df,value=('GC-MS','dodecan-1-ol'),pathway=1,targets=None):
+    if pathway == 1:
+        #Pathway Name
+        path_name='MAQU2220'
+        X_target = np.transpose([[79841.880342,455256.1,373182.853333],
+                    [21369.444444,309961.6,373182.853333]])
+        scale = 100
+        
+    else:
+        #Pathway Name
+        path_name='MAQU2507'
+        X_target = np.transpose([[151766.036,843892.720,698696.280],
+                    [151766.036,620017.048,698696.280],
+                    [151766.036,460305.120,579659.136]])
+        scale = 12
+        
     sns.set_style('whitegrid')
     fig = plt.figure(figsize=(8,8))
     ax = fig.add_subplot(111, projection='3d')
@@ -309,20 +327,80 @@ def plot_strains_3d(df,value=('GC-MS','dodecan-1-ol'),pathway=1,targets=None):
     CYCLE_2 = df[('Metadata','Batch')] > 3
     ZERO_VALUE = df[value]==0
     
-    conditions = [(PATHWAY & CYCLE_1, 'k'),
-                  (PATHWAY & CYCLE_2, 'r')]
+    conditions = [(PATHWAY & CYCLE_1, 'black'),
+                  (PATHWAY & CYCLE_2, 'red')]
     
-    for condition,color in conditions:
-        ax.scatter(*[df.loc[condition & ~ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins],
-                   s=df.loc[condition & ~ZERO_VALUE][value]*1000,
-                   marker='+',c=color)
+    data = []
+    for i,(condition,color) in enumerate(conditions):
+        #Plot Non Zero Production Data Points
+        X,Y,Z = [df.loc[condition & ~ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins]
+        label_fcn = lambda row: 'Strain {} Produced {:0.0f} mg/L Dodecanol'.format(int(row[('Metadata','Strain')]),row[('GC-MS','dodecan-1-ol')]*1000)
+        label = df.loc[condition & ~ZERO_VALUE].apply(label_fcn,axis=1)
+        S = df.loc[condition & ~ZERO_VALUE][value]*scale
+        data.append(go.Scatter3d(
+            x=X,
+            y=Y,
+            z=Z,
+            mode='markers',
+            name='Cycle {} Stains with Measureable Production'.format(i+1),
+            text=label,
+            marker=dict(
+                size=S,
+                symbol="x",
+                color=color,
+            
+            )))
         
-        ax.scatter(*[df.loc[condition & ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins],
-                   s=50,marker='o',c=color)
-
+        #Plot Data Points with Zero Production
+        if len(df.loc[condition & ZERO_VALUE]) > 0:
+            label = df.loc[condition & ZERO_VALUE].apply(label_fcn,axis=1)
+            X,Y,Z = [df.loc[condition & ZERO_VALUE]['Targeted Proteomics'][protein] for protein in proteins]
+            data.append(go.Scatter3d(
+                x=X,
+                y=Y,
+                z=Z,
+                mode='markers',
+                text=label,
+                name='Cycle {} Stains with Zero Production'.format(i+1),
+                marker=dict(
+                    size=5,
+                    color=color
+                )))
+    
+    #Plot Target Data
+    X,Y,Z = X_target
+    data.append(go.Scatter3d(
+                x=X,
+                y=Y,
+                z=Z,
+                mode='markers',
+                name='Proteomic Target for Cycle 2',
+                marker=dict(
+                    size=5,
+                    symbol="circle-open",
+                    color='blue'
+                )))
+    
+    layout = go.Layout(
+        scene = dict(
+            xaxis=dict(title='x: {} [counts]'.format(proteins[0])),
+            yaxis=dict(title='y: {} [counts]'.format(proteins[1])),
+            zaxis=dict(title='z: {} [counts]'.format(proteins[2]))
+            ),
+        title='Proteomics vs. {} for {} strains'.format(value[1],path_name),
+        #margin=dict(
+        #        l=0,
+        #        r=0,
+        #        b=0,
+        #        t=0),
+        )
+    
+    fig = go.Figure(data=data, layout=layout)
+    plot(fig, filename='figures/Pathway{}StrainSummaryScatterPlot.html'.format(pathway))
+    
     #Plot Proteomic Targets if Given
-    if targets is not None:
-        pass
+    #if targets is not None:
+    #    pass
         
     #ax.scatter(pwc1df['LCFA_ECOLI'],pwc1df['FATB_UMBCA'],pwc1df[strain_proteins[i]],
     #           s=pathway_df['Dodecanol']*1000,marker='+',c='k')
@@ -349,9 +427,42 @@ def plot_strains_3d(df,value=('GC-MS','dodecan-1-ol'),pathway=1,targets=None):
     #           s=50,marker='*',c='b')
 
     #Format Plot
-    plt.title('Proteomics vs. {}'.format(value[1]))
-    plt.xlabel(proteins[0])
-    plt.ylabel(proteins[1])
-    ax.set_zlabel(proteins[2])
-    plt.tight_layout()
-    plt.show()
+    #plt.title('Proteomics vs. {}'.format(value[1]))
+    #plt.xlabel(proteins[0])
+    #plt.ylabel(proteins[1])
+    #ax.set_zlabel(proteins[2])
+    #plt.tight_layout()
+    #plt.show()
+    
+
+
+
+
+#x2, y2, z2 = np.random.multivariate_normal(np.array([0,0,0]), np.eye(3), 200).transpose()
+#trace2 = go.Scatter3d(
+#    x=x2,
+#    y=y2,
+#    z=z2,
+#    mode='markers',
+#    marker=dict(
+#        color='rgb(127, 127, 127)',
+#        size=12,
+#        symbol='circle',
+#        line=dict(
+#            color='rgb(204, 204, 204)',
+#            width=1
+#        ),
+#        opacity=0.9
+#    )
+#)
+#data = [trace1, trace2]
+#layout = go.Layout(
+#    margin=dict(
+#        l=0,
+#        r=0,
+#        b=0,
+#        t=0
+#    )
+#)
+#fig = go.Figure(data=data, layout=layout)
+#py.iplot(fig, filename='simple-3d-scatter')
